@@ -1,6 +1,6 @@
-nome = "joca"
-idade = 17
-altura = 1,82
+nome = "Gabriel"
+idade = 16
+altura = 1,77
 
 
 
