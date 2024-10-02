@@ -7,4 +7,10 @@ def parouimpar(x):
     else:
         return "impar"
 
-print(parouimpar(7))
+valor = 0
+while valor != 'S':
+    valor = input('digite um valor ou "S" para sair: ')
+    if valor != 'S':
+        print(parouimpar(int(valor)))
+    else:
+        print('fim do programa')
