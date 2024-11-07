@@ -1,5 +1,3 @@
-# TRIGOTEC
-
 import math
 
 def graus_para_radianos(graus):
